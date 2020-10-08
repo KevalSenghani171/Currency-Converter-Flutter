@@ -2,15 +2,16 @@
 
 In these you can check Currency current foreign exchange rates.
 
+<h2>Demonstration Video:</h2>
+
+[![Watch the video](https://i.ytimg.com/vi/bc1MZVwMEiI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBlehu7Z1wtuplrl7iufKdggXGbew)](https://youtu.be/bc1MZVwMEiI)
+
 <h2>ScreenShots:</h2>
 
 <img width="300" height="550" src="result/currency1.jpg"> <img width="300" height="550" src="result/currency2.jpg">
 
 <img width="300" height="550" src="result/currency3.jpg">
 
-<h2>Demonstration Video:</h2>
-
-[![Watch the video](https://i.ytimg.com/vi/bc1MZVwMEiI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBlehu7Z1wtuplrl7iufKdggXGbew)](https://youtu.be/bc1MZVwMEiI)
 
 # Support :
 
