@@ -4,11 +4,9 @@ In these you can check Currency current foreign exchange rates.
 
 <h2>ScreenShots:</h2>
 
-<img src="result/currency1.jpg">
+<img width="300" height="550" src="result/currency1.jpg"> <img width="300" height="550" src="result/currency2.jpg">
 
-<img src="result/currency2.jpg">
-
-<img src="result/currency3.jpg">
+<img width="300" height="550" src="result/currency3.jpg">
 
 <h2>Demonstration Video:</h2>
 
